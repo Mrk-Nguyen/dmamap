@@ -1,0 +1,6 @@
+# Jupyter files
+.ipynb_checkpoints
+
+# Other files
+mapbox_token
+performance_by_dma.csv
