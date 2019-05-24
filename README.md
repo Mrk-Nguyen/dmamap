@@ -7,5 +7,6 @@ This project explore's different methods to plot performance by DMA regions.  Pl
 * plotly
 * pandas
 * geopandas
+* cartopy
 
 If using Jupyter Lab, make sure plotly is [installed properly](https://github.com/plotly/plotly.py#jupyterlab-support-python-35)
